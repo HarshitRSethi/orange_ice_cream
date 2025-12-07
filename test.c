@@ -1,5 +1,1 @@
-#include <stdio.h>
-int main()
-{
-    printf("What next?\n");
-}
+We are Charlie Kine
